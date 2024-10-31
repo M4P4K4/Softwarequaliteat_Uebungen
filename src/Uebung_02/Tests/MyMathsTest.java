@@ -1,5 +1,6 @@
-package Uebung_02;
+package Uebung_02.Tests;
 
+import Uebung_02.MyMaths;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 
