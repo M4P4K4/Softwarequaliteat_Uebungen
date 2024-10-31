@@ -8,7 +8,7 @@ public class Stack {
 	
 	private int maxSize = 0;
 	int pos = -1;
-	int[] stackArr = null;
+	public int[] stackArr = null;
 	
 	public Stack(int size) {
 		maxSize = size;
