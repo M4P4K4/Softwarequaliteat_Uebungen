@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2024 German Aerospace Center
+//
+// SPDX-License-Identifier: CC-BY-4.0
+
 package Uebung_02;
 
 public class MyMaths {

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2024 Maximilian Karhausen
+//
+// SPDX-License-Identifier: CC0-1.0
+
 package Uebung_02.Tests;
 
 import Uebung_02.Stack;

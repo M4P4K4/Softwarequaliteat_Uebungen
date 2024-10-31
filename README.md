@@ -1,9 +1,15 @@
+<!--
+SPDX-FileCopyrightText: 2024 Maximilian Karhausen
+
+SPDX-License-Identifier: CC0-1.0
+-->
+
 # Softwarequalität Übungen
 
 In diesem Repository befinden sich alle relevanten Dateien zu den Übungen der Vorlesungsreihe "Softwarequalität".
 Das Repository ist wie folgt organisiert:
 - [src](src): Hier befindet sich der Code
-- [Übungsblätter](Übungsblätter): Hier befinden sich die Übungsblätter mit den Übungsaufgaben.
+- [Übungsblätter](Uebungsblaetter): Hier befinden sich die Übungsblätter mit den Übungsaufgaben.
 
 ## Code
 Es werden keine externen Libraries verwendet. Der Code kann direkt ausgeführt werden. Es wird Java JDK >= 21 benötigt.
