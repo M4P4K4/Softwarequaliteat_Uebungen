@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Maximilian Karhausen
+#
+# SPDX-License-Identifier: CC0-1.0
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -30,3 +34,4 @@ bin/
 
 ### IntelliJ ###
 .idea/
+.iml
